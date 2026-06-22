@@ -19,8 +19,8 @@ Sparse sensors
         │
         ▼
  ┌─────────────┐     Low-pass filter → smooth target
- │  LF SHRED   │  GRU encoder → latent z 
- │  + SINDy    │  MLP decoder → full grid 
+ │  LF SHRED   │     GRU encoder → latent z 
+ │  + SINDy    │     MLP decoder → full grid 
  └─────────────┘     SINDy regularization during training
         │
         ▼ residual
@@ -226,7 +226,11 @@ All results are written to `data/synthetic/iberian_event/results/`:
 | `log_<timestamp>.txt` | Full console output |
 
 ---
+## 📊 Results
+![SENDAI](img/SENDAI_results1_0.jpg)
+![SENDAI](img/SENDAI_results1_1.jpg)
 
+---
 ## References
 
 - **SHRED**: Williams, Jan P., Olivia Zahn, and J. Nathan Kutz. "Sensing with shallow recurrent decoder networks." Proceedings of the Royal Society A 480.2298 (2024): 20240054.
