@@ -1,5 +1,5 @@
 # SINDy-SENDAI: Data-Driven Discovery of Multiscale Power System Oscillation Governing Equations Using SINDy-SENDAI
-![SENDAI](img/SINDy_SENDAI.jpg)
+![SENDAI](img/SENDAI.jpg)
 ## What It Does
 
 - Encodes sparse PMU (Phasor Measurement Unit) sensor histories with GRU layers.
