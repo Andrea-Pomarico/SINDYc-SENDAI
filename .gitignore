@@ -1,0 +1,41 @@
+# Data directories
+data/
+
+# Model outputs
+*.pt
+*.pth
+*.npy
+*.npz
+
+# Plots and exports
+*.png
+*.pdf
+*.svg
+*.csv
+
+# Logs
+*.txt
+logs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code internal config
+.claude/
