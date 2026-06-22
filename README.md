@@ -1,4 +1,4 @@
-# SENDAI — Sparse Encoder-Decoder with Nonlinear Dynamics and AI
+# SINDy-SENDAI: Data-Driven Discovery of Multiscale Power System Oscillation Governing Equations Using SINDy-SENDAI
 
 ## What It Does
 
