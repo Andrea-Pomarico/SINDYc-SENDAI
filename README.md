@@ -15,17 +15,17 @@
 ## Pipeline Overview
 
 ```
-Sparse sensors (10 PMUs)
+Sparse sensors
         │
         ▼
  ┌─────────────┐     Low-pass filter → smooth target
- │  LF SHRED   │  GRU encoder → latent z (dim 8)
- │  + SINDy    │  MLP decoder → full grid (22 PMUs)
+ │  LF SHRED   │  GRU encoder → latent z 
+ │  + SINDy    │  MLP decoder → full grid 
  └─────────────┘     SINDy regularization during training
         │
         ▼ residual
  ┌─────────────┐
- │  HF Peeling │  10× (1D-Conv + MLP) correction layers
+ │  HF Peeling │  M× (1D-Conv + MLP) correction layers
  │  Layers     │  trained sequentially on residuals
  └─────────────┘
         │
