@@ -230,7 +230,7 @@ All results are written to `data/synthetic/iberian_event/results/`:
 ### Oscillatory Event on December 3rd, 2016
 ![SENDAI](img/SENDAI_results1_0.jpg)
 ![SENDAI](img/SENDAI_results1_1.jpg)
-<img src="img/SENDAI_results1_2.jpg" alt="SENDAI" width="500">
+<img src="img/SENDAI_results1_2.jpg" alt="SENDAI" width="50%">
 ### Normal Grid Opearion in 2021
 ![SENDAI](img/SENDAI_results2_0.jpg)
 ![SENDAI](img/SENDAI_results2_1.jpg)
