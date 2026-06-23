@@ -240,5 +240,5 @@ All results are written to `data/synthetic/iberian_event/results/`:
 
 - **SHRED**: Williams, Jan P., Olivia Zahn, and J. Nathan Kutz. "Sensing with shallow recurrent decoder networks." Proceedings of the Royal Society A 480.2298 (2024): 20240054.
 - **SINDy**: Brunton, Steven L., Joshua L. Proctor, and J. Nathan Kutz. "Discovering governing equations from data by sparse identification of nonlinear dynamical systems." Proceedings of the national academy of sciences 113.15 (2016): 3932-3937.
-- **SINDy-SHRED**:Gao, Mars Liyao, Jan P. Williams, and J. Nathan Kutz. "Sparse identification of nonlinear dynamics and koopman operators with shallow recurrent decoder networks." Proceedings of the National Academy of Sciences 123.16 (2026): e2508144123.
-- **SENDAI**: Zhang, Xingyue, et al. "SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework." ICLR 2026 Workshop on Foundation Models for Science: Real-World Impact and Science-First Design. 2026.
+- **SINDy-SHRED**: Gao, Mars Liyao, Jan P. Williams, and J. Nathan Kutz. "Sparse identification of nonlinear dynamics and koopman operators with shallow recurrent decoder networks." Proceedings of the National Academy of Sciences 123.16 (2026): e2508144123.
+- **SENDAI**: Zhang, X., Bao, Y., Gao, M. L., & Kutz, J. N. (2026, January). SENDAI: A Hierarchical Sparse-measurement, EfficieNt Data AssImilation Framework. In ICLR 2026 Workshop on Foundation Models for Science: Real-World Impact and Science-First Design.
